@@ -1,25 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import GetNavbar from './components/GetNavbar';
+import Main from './components/Main';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Container from 'react-bootstrap/Container';
+import GetCard from './components/GetCard';
+import FamilyPage from './components/FamilyPage';
 
-function App() {
+// import data from './components/FamilyMembers.json';
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Container>
+        <GetNavbar />
+        <Main />
+        <GetCard />
+        <FamilyPage />
+      </Container>
     </div>
   );
-}
+};
 
 export default App;
+
+// render(<AlertDismissibleExample />);
