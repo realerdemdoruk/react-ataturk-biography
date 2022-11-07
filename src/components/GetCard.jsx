@@ -21,26 +21,6 @@ const GetCard = () => {
         </div>
       ))}
     </div>
-
-    // {/* <div className="col mt-5">
-    //     <Card style={{ width: '18rem' }}>
-    //       <Card.Img
-    //         variant="top"
-    //         src="https://www.makaleler.com/fotomakaleler/596623e3da5fc.jpg"
-    //       />
-    //       <Card.Body>
-    //         <Card.Title>{} </Card.Title>
-    //         <Card.Text>
-    //           Ali Rıza Efendi, “kırmızı hafız” lakaplı Kızıl Hafız Ahmet
-    //           Efendi’nin oğludur. 1939 yılında Makedonya yakınlarındaki Kocacık
-    //           köyünde dünyaya geldi.
-    //         </Card.Text>
-    //         <Button variant="primary">Go somewhere</Button>
-    //       </Card.Body>
-    //     </Card>
-    //   </div> */
-    //   // </div>
-    // }
   );
 };
 

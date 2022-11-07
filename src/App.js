@@ -4,8 +4,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Container from 'react-bootstrap/Container';
 import GetCard from './components/GetCard';
 import FamilyPage from './components/FamilyPage';
+import GetFooter from './components/GetFooter';
+import data from './components/FamilyMembers.json';
 
-// import data from './components/FamilyMembers.json';
 const App = () => {
   return (
     <div>
@@ -13,7 +14,8 @@ const App = () => {
         <GetNavbar />
         <Main />
         <GetCard />
-        <FamilyPage />
+        {/* <FamilyPage /> */}
+        <GetFooter />
       </Container>
     </div>
   );
