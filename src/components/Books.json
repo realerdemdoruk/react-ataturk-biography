@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Doğu Halklarının Antik Tarihi",
+    "img": "https://i0.wp.com/journo.com.tr/wp-content/uploads/2022/05/Maspero-Histoire-ancienne-des-peuples-de-lOrient-e1652860142108.jpg?w=418&ssl=1",
+    "originalName": "Histoire ancienne des peuples de l’Orient",
+    "author": "Gaston Camille Charles Maspéro",
+    "type": "Doğu Tarihi",
+    "language": "Fransızca",
+    "releaseYear": "1895"
+  },
+  {
+    "id": 2,
+    "name": "Doğuşundan Günümüze Osmanlı İmparatorluğu Tarihi",
+    "img": "https://i0.wp.com/journo.com.tr/wp-content/uploads/2022/05/Von-hammer-Histoire-de-lempire-ottoman-depuis-son-origine-jasqua-nos-jours.jpg?w=305&ssl=1",
+    "originalName": "Histoire de l’empire ottoman depuis son origine jasqu’à nos jours",
+    "author": "Joseph Freiherr von Hammer-Purgstall (Almanca’dan çeviri)",
+    "type": "Osmanlı Tarihi",
+    "language": "Fransızca",
+    "releaseYear": "1895"
+  },
+  {
+    "id": 3,
+    "name": "Tarih Öncesi İnsanlık",
+    "img": "https://i0.wp.com/journo.com.tr/wp-content/uploads/2022/05/Jacques-Jean-Maris-de-Morgan-Lhumanite-prehistorique-e1652860795578.png?w=564&ssl=1",
+    "originalName": "L’humanité préhistorique",
+    "author": "Jacques Jean Maris de Morgan",
+    "type": "Antropoloji",
+    "language": "Fransızca",
+    "releaseYear": "1924"
+  },
+  {
+    "id": 5,
+    "name": "Güney Kutup Bölgesi",
+    "img": "https://i0.wp.com/journo.com.tr/wp-content/uploads/2022/05/Maurice-Zimmermann-Paul-Privat-Deschanel-Regions-polaires-australes.jpg?w=574&ssl=1",
+    "originalName": "Régions polaires australes",
+    "author": "Maurice Zimmermann ve Paul Privat-Deschane",
+    "type": "Coğrafya",
+    "language": "Fransızca",
+    "releaseYear": "1930"
+  },
+  {
+    "id": 1,
+    "name": "Antik Tarih",
+    "img": "https://i0.wp.com/journo.com.tr/wp-content/uploads/2022/05/Histoire-de-lantiquite-Eduard-Mayer.jpg?w=444&ssl=1",
+    "originalName": "Histoire de l’antiquité",
+    "author": "Eduard Mayer",
+    "type": "Antropoloji",
+    "language": "Fransızca",
+    "releaseYear": "1912"
+  }
+]
