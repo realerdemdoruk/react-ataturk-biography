@@ -5,6 +5,7 @@ import Navbar from 'react-bootstrap/Navbar';
 // import NavDropdown from 'react-bootstrap/NavDropdown';
 import App from '../App';
 import FamilyPage from './FamilyPage';
+import Books31 from './Books';
 
 import {
   BrowserRouter,
@@ -14,6 +15,7 @@ import {
   NavLink,
   Outlet,
 } from 'react-router-dom';
+import Books from './Books';
 
 const GetNavbar = () => {
   return (
@@ -30,6 +32,15 @@ const GetNavbar = () => {
             </p>
           }
         />
+
+        <Route
+          path="books"
+          element={
+            // <p>
+            <Books31 />
+            // </p>
+          }
+        />
       </Routes>
 
       <Navbar bg="light" expand="lg">
@@ -44,7 +55,8 @@ const GetNavbar = () => {
                 <NavLink to="family">Family</NavLink>
               </Nav.Link>
               <Nav.Link href="#link"></Nav.Link>
-              <NavLink to="books">Books</NavLink>
+              {/* <NavLink to="books">Books</NavLink> */}
+              <Link to="books">Books</Link>
               {/* <Outlet /> */}
             </Nav>
           </Navbar.Collapse>
