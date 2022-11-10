@@ -2,10 +2,8 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-// import NavDropdown from 'react-bootstrap/NavDropdown';
-import App from '../App';
 import FamilyPage from './FamilyPage';
-import Books31 from './Books';
+import BooksPage from './BooksPage';
 
 import {
   BrowserRouter,
@@ -15,15 +13,11 @@ import {
   NavLink,
   Outlet,
 } from 'react-router-dom';
-import Books from './Books';
 
 const GetNavbar = () => {
   return (
     <BrowserRouter>
       <Routes>
-        {/* <Route path="/*" element={
-        <h1>ws</h1>}
-         /> */}
         <Route
           path="family"
           element={
@@ -36,9 +30,9 @@ const GetNavbar = () => {
         <Route
           path="books"
           element={
-            // <p>
-            <Books31 />
-            // </p>
+            <p>
+              <BooksPage />
+            </p>
           }
         />
       </Routes>
@@ -46,7 +40,7 @@ const GetNavbar = () => {
       <Navbar bg="light" expand="lg">
         <Container>
           <Navbar.Brand href="#home">
-            <NavLink to="/*">Home</NavLink>
+            <NavLink to="/">Home</NavLink>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
@@ -54,10 +48,9 @@ const GetNavbar = () => {
               <Nav.Link href="#">
                 <NavLink to="family">Family</NavLink>
               </Nav.Link>
-              <Nav.Link href="#link"></Nav.Link>
-              {/* <NavLink to="books">Books</NavLink> */}
-              <Link to="books">Books</Link>
-              {/* <Outlet /> */}
+              <Nav.Link href="#">
+                <NavLink to="books">Books</NavLink>
+              </Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>

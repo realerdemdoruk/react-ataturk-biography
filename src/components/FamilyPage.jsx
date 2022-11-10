@@ -4,6 +4,15 @@ import users from './FamilyMembers.json';
 import Card from 'react-bootstrap/Card';
 // import ListGroup from 'react-bootstrap/ListGroup';
 
+import {
+  BrowserRouter,
+  Routes,
+  Route,
+  Link,
+  NavLink,
+  Outlet,
+} from 'react-router-dom';
+
 const FamilyPage = () => {
   return (
     <div className="justify-content-center d-flex mx-auto">
