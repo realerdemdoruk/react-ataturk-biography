@@ -1,10 +1,24 @@
 import React from 'react';
-import Home from './components/Home';
+import Home from './Page/Home';
+import Main from './Page/Main';
+import FamilyPage from './Page/FamilyPage';
+import GetNavbar from './components/GetNavbar';
+import BooksPage from './Page/BooksPage';
+import GetFooter from './Page/GetFooter';
+
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 const App = () => {
   return (
-    <div>
-      <Home />
-    </div>
+    <BrowserRouter>
+      <GetNavbar />
+      <Routes>
+        <Route path="/" element={<Main />} />
+        <Route path="/home" element={<Home />} />
+        <Route path="/family" element={<FamilyPage />} />
+        <Route path="/book" element={<BooksPage />} />
+      </Routes>
+      <GetFooter />
+    </BrowserRouter>
   );
 };
 

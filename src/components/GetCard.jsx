@@ -6,7 +6,7 @@ import users from './FamilyMembers.json';
 const GetCard = () => {
   return (
     <div className="row">
-      <h1 class="text-center mt-5">ATATÜRKÜN AİLESİ</h1>
+      <h1 className="text-center mt-5">ATATÜRKÜN AİLESİ</h1>
 
       {users.map((user) => (
         <div className="col mt-3" key={user.id}>
@@ -15,7 +15,7 @@ const GetCard = () => {
             <Card.Body>
               <Card.Title>{user.name}</Card.Title>
               <Card.Text>{user.desc}</Card.Text>
-              <Button variant="primary">Hakkında</Button>
+              <Button variant="primary">Daha fazla bilgi</Button>
             </Card.Body>
           </Card>
         </div>

@@ -1,17 +1,6 @@
 import React from 'react';
-import users from './FamilyMembers.json';
-
+import users from '../components/FamilyMembers.json';
 import Card from 'react-bootstrap/Card';
-// import ListGroup from 'react-bootstrap/ListGroup';
-
-import {
-  BrowserRouter,
-  Routes,
-  Route,
-  Link,
-  NavLink,
-  Outlet,
-} from 'react-router-dom';
 
 const FamilyPage = () => {
   return (
