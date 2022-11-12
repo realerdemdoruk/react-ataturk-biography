@@ -2,6 +2,10 @@ import React from 'react';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import users from './FamilyMembers.json';
+import { useState, useEffect } from 'react';
+
+import BooksList from './BooksList.json';
+import FamilyMembers from './FamilyMembers.json';
 
 const GetCard = () => {
   return (
@@ -14,7 +18,9 @@ const GetCard = () => {
             <Card.Img variant="top" src={user.img} />
             <Card.Body>
               <Card.Title>{user.name}</Card.Title>
+
               <Card.Text>{user.desc}</Card.Text>
+
               <Button variant="primary">Daha fazla bilgi</Button>
             </Card.Body>
           </Card>
