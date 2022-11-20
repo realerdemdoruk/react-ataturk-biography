@@ -7,10 +7,14 @@ const BooksPage = () => {
   return (
     <div className=" justify-content-center d-flex mx-auto">
       <div className="row">
-        <div className="col">
+        <div className="col ">
           <h1 className="text-center mt-5"> Okuduğu Kitaplar</h1>
           {BooksList.map((book) => (
-            <Card style={{ width: '20rem' }} className="mt-5" key={book.id}>
+            <Card
+              style={{ width: '20rem' }}
+              className="mt-5 shadow"
+              key={book.id}
+            >
               <Card.Img variant="top" src={book.img} />
               <Card.Body>
                 <Card.Title className="text-center">{book.name}</Card.Title>

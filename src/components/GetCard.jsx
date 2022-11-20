@@ -12,7 +12,7 @@ const GetCard = () => {
 
       {users.map((user) => (
         <div className="col mt-3" key={user.id}>
-          <Card style={{ width: '18rem' }}>
+          <Card style={{ width: '18rem' }} className="shadow">
             <Card.Img variant="top" src={user.img} />
             <Card.Body>
               <Card.Title>{user.name}</Card.Title>

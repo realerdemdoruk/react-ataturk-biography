@@ -30,7 +30,7 @@
     "releaseYear": "1924"
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "Güney Kutup Bölgesi",
     "img": "https://i0.wp.com/journo.com.tr/wp-content/uploads/2022/05/Maurice-Zimmermann-Paul-Privat-Deschanel-Regions-polaires-australes.jpg?w=574&ssl=1",
     "originalName": "Régions polaires australes",
@@ -40,7 +40,7 @@
     "releaseYear": "1930"
   },
   {
-    "id": 1,
+    "id": 5,
     "name": "Antik Tarih",
     "img": "https://i0.wp.com/journo.com.tr/wp-content/uploads/2022/05/Histoire-de-lantiquite-Eduard-Mayer.jpg?w=444&ssl=1",
     "originalName": "Histoire de l’antiquité",
@@ -48,5 +48,26 @@
     "type": "Antropoloji",
     "language": "Fransızca",
     "releaseYear": "1912"
+  },
+  {
+    "id": 6,
+    "name": "Tarih-i Osmanî",
+    "img": "https://img.kitapyurdu.com/v1/getImage/fn:270866/wh:true/wi:800",
+    "originalName": "Tarih-i Osmanî",
+    "author": "Namık Kemal",
+    "type": "Tarih",
+    "language": "Türkçe",
+    "releaseYear": "1889"
+  },
+
+  {
+    "id": 7,
+    "name": "Sapho: Moeurs parisiennes (Littérature et civilisation)",
+    "img": "https://kbimages1-a.akamaihd.net/f921352c-e36e-406f-abcf-e650347da631/1200/1200/False/sapho-roman-de-murs-parisiennes.jpg",
+    "originalName": "Sapho: Moeurs parisiennes (Littérature et civilisation)",
+    "author": "Alphonse Daudet",
+    "type": "Kurgu",
+    "language": "Fransızca",
+    "releaseYear": "1880"
   }
 ]

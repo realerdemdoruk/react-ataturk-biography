@@ -9,7 +9,11 @@ const FamilyPage = () => {
         <div className="row">
           <div className="col">
             {users.map((user) => (
-              <Card className="mt-5" style={{ width: '25rem' }} key={user.id}>
+              <Card
+                className="mt-5 shadow"
+                style={{ width: '25rem' }}
+                key={user.id}
+              >
                 <Card.Img variant="top" src={user.img} />
                 <Card.Body>
                   <Card.Title className="text-center mt-2">

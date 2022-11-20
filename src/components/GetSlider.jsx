@@ -3,7 +3,7 @@ import Carousel from 'react-bootstrap/Carousel';
 
 const Main = () => {
   return (
-    <div className="w-75 mx-auto h-50">
+    <div className="w-75 mx-auto h-50 shadow">
       <Carousel>
         <Carousel.Item>
           <img
