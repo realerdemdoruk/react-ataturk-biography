@@ -12,8 +12,7 @@ const Main = () => {
             alt="First slide"
           />
           <Carousel.Caption>
-            <h3>First slide label</h3>
-            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+            <h6>Memleketin efendisi hakiki müstahsil olan köylüdür. </h6>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -24,8 +23,11 @@ const Main = () => {
           />
 
           <Carousel.Caption>
-            <h3>Second slide label</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <h6>
+              Beni görmek demek mutlaka yüzümü görmek demek değildir. Benim
+              fikirlerimi, benim duygularımı anlıyorsanız ve hissediyorsanız bu
+              yeterlidir.
+            </h6>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -36,10 +38,11 @@ const Main = () => {
           />
 
           <Carousel.Caption>
-            <h3>Third slide label</h3>
-            <p>
-              Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-            </p>
+            <h6>
+              Süngülerle, silahlarla ve kanla kazandığımız askeri zaferlerden
+              sonra, kültür, bilim, fen ve ekonomi alanlarında da zaferler
+              kazanmaya devam edeceğiz.{' '}
+            </h6>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>

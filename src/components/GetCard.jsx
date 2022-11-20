@@ -2,10 +2,8 @@ import React from 'react';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import users from './FamilyMembers.json';
-import { useState, useEffect } from 'react';
-
-import BooksList from './BooksList.json';
-import FamilyMembers from './FamilyMembers.json';
+import { Link } from 'react-router-dom';
+import '../style.css';
 
 const GetCard = () => {
   return (
@@ -21,7 +19,11 @@ const GetCard = () => {
 
               <Card.Text>{user.desc}</Card.Text>
 
-              <Button variant="primary">Daha fazla bilgi</Button>
+              <Button variant="primary">
+                <Link className="Links" to="/family">
+                  Daha fazla bilgi
+                </Link>
+              </Button>
             </Card.Body>
           </Card>
         </div>
