@@ -1,0 +1,13 @@
+body {
+  background-color: #f7f7f7;
+}
+
+.Links,
+.Links:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.NavLink {
+  text-decoration: none;
+}
