@@ -1,6 +1,5 @@
 import React from "react";
 import Home from "./Page/Home";
-import GetSlider from "./components/GetSlider";
 import FamilyPage from "./Page/FamilyPage";
 import GetNavbar from "./components/GetNavbar";
 import BooksPage from "./Page/BooksPage";
@@ -12,7 +11,6 @@ const App = () => {
     <BrowserRouter>
       <GetNavbar />
       <Routes>
-        {/* <Route path="/" element={<GetSlider />} /> */}
         <Route path="/" element={<Home />} />
         <Route path="/family" element={<FamilyPage />} />
         <Route path="/book" element={<BooksPage />} />

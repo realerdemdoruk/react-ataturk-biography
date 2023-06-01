@@ -1,5 +1,5 @@
 import React from 'react';
-import users from '../components/FamilyMembers.json';
+import users from '../FamilyMembers.json';
 import Card from 'react-bootstrap/Card';
 
 const FamilyPage = () => {

@@ -11,3 +11,24 @@ body {
 .NavLink {
   text-decoration: none;
 }
+
+.card:hover {
+  background-color: #f7f7f7;
+  transition: 0.5s all;
+  padding: 10px !important;
+}
+
+* {
+  animation-duration: 0.5s;
+  transition: 0.5s all;
+}
+
+.icon:hover {
+  color: #f7f7f7;
+}
+
+.icon {
+  color: #f8f8;
+  width: 2rem;
+  height: 2rem;
+}

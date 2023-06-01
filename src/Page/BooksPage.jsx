@@ -1,7 +1,7 @@
 import React from 'react';
 import Card from 'react-bootstrap/Card';
 import ListGroup from 'react-bootstrap/ListGroup';
-import BooksList from '../components/BooksList.json';
+import BooksList from '../BooksList.json';
 
 const BooksPage = () => {
   return (

@@ -1,7 +1,7 @@
 import React from 'react';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-import users from './FamilyMembers.json';
+import users from '../FamilyMembers.json';
 import { Link } from 'react-router-dom';
 import '../style.css';
 
@@ -10,15 +10,19 @@ const GetCard = () => {
     <div className="container">
       <div className="row">
         <div className="col-md-12">
-          <h1 className="text-center mt-5">ATATÜRKÜN AİLESİ</h1>
+          <h1 className="text-center mt-5"
+            style={{
+              color: 'gray',
+            }}
+          >ATATÜRKÜN AİLESİ</h1>
         </div>
 
         <div className="col-md-12 d-flex justify-content-center flex-wrap">
           {users.map((user) => (
             <div className="mx-auto mt-3" key={user.id}>
               <Card style={{ width: '18rem' }} className="shadow">
-                <Card.Img variant="top" src={user.img} />
-                <Card.Body>
+                <Card.Img variant="top" src={user.img}  />
+                <Card.Body className='d-flex flex-column justify-content-center align-items-center'>
                   <Card.Title>{user.name}</Card.Title>
                   <Card.Text>{user.desc}</Card.Text>
                   <Button variant="primary">

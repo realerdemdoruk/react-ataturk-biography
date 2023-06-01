@@ -9,23 +9,23 @@ import {
 
 const GetFooter = () => {
   return (
-    <Container>
-      <div className="container-fluid  mt-5 bg-dark text-light">
+    <Container fluid className="bg-dark mt-5">
+      <div>
         <div className="row ">
           <div className="col text-center">
-            <h1 className="text-center mt-2">BİZİ TAKİP EDİN</h1>
+            <h5 className="text-center mt-2 text-white ">BİZİ TAKİP EDİN</h5>
           </div>
         </div>
 
         <div className="row ">
-          <div className="col gap-3 d-flex justify-content-center mt-3 mx-auto">
+          <div className="col gap-3 d-flex justify-content-center mt-3 mx-auto mb-3">
             <div>
               <a
                 href="https://www.instagram.com/realerdemdoruk/"
                 target="_blank"
                 rel="noreferrer"
               >
-                <AiOutlineInstagram size="2em" />
+                <AiOutlineInstagram className='icon'  size="2em" />
               </a>
             </div>
             <div>
@@ -34,7 +34,7 @@ const GetFooter = () => {
                 target="_blank"
                 rel="noreferrer"
               >
-                <AiFillFacebook size="2em" />
+                <AiFillFacebook  className='icon'  />
               </a>
             </div>
             <div>
@@ -43,7 +43,7 @@ const GetFooter = () => {
                 target="_blank"
                 rel="noreferrer"
               >
-                <AiFillGithub size="2em" />
+                <AiFillGithub  className='icon' />
               </a>
             </div>
             <div>
@@ -52,7 +52,7 @@ const GetFooter = () => {
                 target="_blank"
                 rel="noreferrer"
               >
-                <AiFillTwitterCircle size="2em" />
+                <AiFillTwitterCircle  className='icon' />
               </a>
             </div>
           </div>
