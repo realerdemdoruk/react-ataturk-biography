@@ -1,42 +1,28 @@
-import React from 'react';
-import Button from 'react-bootstrap/Button';
-import Card from 'react-bootstrap/Card';
-import users from '../FamilyMembers.json';
-import { Link } from 'react-router-dom';
-import '../style.css';
+import React from "react";
+import { Card } from "react-bootstrap";
 
-const GetCard = () => {
+const GetCard = ({ title, description, imageUrl, details, cardType }) => {
   return (
-    <div className="container">
-      <div className="row">
-        <div className="col-md-12">
-          <h1 className="text-center mt-5"
-            style={{
-              color: 'gray',
-            }}
-          >ATATÜRKÜN AİLESİ</h1>
-        </div>
-
-        <div className="col-md-12 d-flex justify-content-center flex-wrap">
-          {users.map((user) => (
-            <div className="mx-auto mt-3" key={user.id}>
-              <Card style={{ width: '18rem' }} className="shadow">
-                <Card.Img variant="top" src={user.img}  />
-                <Card.Body className='d-flex flex-column justify-content-center align-items-center'>
-                  <Card.Title>{user.name}</Card.Title>
-                  <Card.Text>{user.desc}</Card.Text>
-                  <Button variant="primary">
-                    <Link className="Links" to="/family">
-                      Daha fazla bilgi
-                    </Link>
-                  </Button>
-                </Card.Body>
-              </Card>
-            </div>
-          ))}
-        </div>
+    <Card className="custom-card h-100">
+      <div className="card-img-container">
+        <Card.Img variant="top" src={imageUrl} className="card-img" />
       </div>
-    </div>
+      <Card.Body>
+        <Card.Title className="card-title text-center">{title}</Card.Title>
+        <Card.Text className="card-description text-center">
+          {description}
+        </Card.Text>
+        {details && (
+          <div className="card-details">
+            {Object.entries(details).map(([key, value]) => (
+              <p key={key} className="text-center">
+                <strong>{key}:</strong> {value}
+              </p>
+            ))}
+          </div>
+        )}
+      </Card.Body>
+    </Card>
   );
 };
 

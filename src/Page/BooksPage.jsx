@@ -1,46 +1,36 @@
-import React from 'react';
-import Card from 'react-bootstrap/Card';
-import ListGroup from 'react-bootstrap/ListGroup';
-import BooksList from '../BooksList.json';
+import React from "react";
+import { Container, Row, Col, Card } from "react-bootstrap";
+import { BsBook } from "react-icons/bs";
+import booksList from "../BooksList.json";
 
 const BooksPage = () => {
   return (
-    <div className=" justify-content-center d-flex mx-auto">
-      <div className="row">
-        <div className="col ">
-          <h1 className="text-center mt-5"> Okuduğu Kitaplar</h1>
-          {BooksList.map((book) => (
-            <Card
-              style={{ width: '20rem' }}
-              className="mt-5 shadow"
-              key={book.id}
-            >
-              <Card.Img variant="top" src={book.img} />
+    <Container className="py-5">
+      <h1 className="text-center mb-5">
+        <BsBook className="me-2" />
+        Atatürk'ün Kitapları ve Eserleri
+      </h1>
+      <Row className="g-4">
+        {booksList.map((book) => (
+          <Col key={book.id} xs={12} sm={6} md={4}>
+            <Card className="h-100 book-card">
+              <Card.Img
+                variant="top"
+                src={book.imageUrl}
+                alt={book.title}
+                className="book-image"
+              />
               <Card.Body>
-                <Card.Title className="text-center">{book.name}</Card.Title>
+                <Card.Title className="book-title">{book.title}</Card.Title>
+                <Card.Text className="book-description">
+                  {book.description}
+                </Card.Text>
               </Card.Body>
-              <ListGroup className="list-group-flush">
-                <ListGroup.Item>
-                  <b>Özgün Adı:</b> {book.originalName}
-                </ListGroup.Item>
-                <ListGroup.Item>
-                  <b>Yazar:</b> {book.author}
-                </ListGroup.Item>
-                <ListGroup.Item>
-                  <b>Türü:</b> {book.type}
-                </ListGroup.Item>
-                <ListGroup.Item>
-                  <b>Dili:</b> {book.language}
-                </ListGroup.Item>
-                <ListGroup.Item>
-                  <b>Yayın Yılı:</b> {book.releaseYear}
-                </ListGroup.Item>
-              </ListGroup>
             </Card>
-          ))}
-        </div>
-      </div>
-    </div>
+          </Col>
+        ))}
+      </Row>
+    </Container>
   );
 };
 

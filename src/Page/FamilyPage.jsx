@@ -1,32 +1,32 @@
-import React from 'react';
-import users from '../FamilyMembers.json';
-import Card from 'react-bootstrap/Card';
+import React from "react";
+import { Container, Row, Col } from "react-bootstrap";
+import GetCard from "../components/GetCard";
+import FamilyMembers from "../FamilyMembers.json";
 
 const FamilyPage = () => {
   return (
-    <div className="container">
-      <div className="justify-content-center d-flex mx-auto">
-        <div className="row">
-          <div className="col">
-            {users.map((user) => (
-              <Card
-                className="mt-5 shadow"
-                style={{ width: '25rem' }}
-                key={user.id}
-              >
-                <Card.Img variant="top" src={user.img} />
-                <Card.Body>
-                  <Card.Title className="text-center mt-2">
-                    {user.name}
-                  </Card.Title>
-                  <Card.Text>{user.about}</Card.Text>
-                </Card.Body>
-              </Card>
-            ))}
-          </div>
-        </div>
-      </div>
-    </div>
+    <Container>
+      <h2 className="text-center my-4">Aile Üyeleri</h2>
+      <Row className="g-4">
+        {FamilyMembers.map((member) => (
+          <Col key={member.id} xs={12} sm={6} md={6} lg={4}>
+            <GetCard
+              title={member.name}
+              description={member.about}
+              imageUrl={member.img}
+              details={{
+                "Doğum Tarihi": member.birthDate,
+                Meslek: member.occupation,
+                Eğitim: member.education,
+                "Yaşadığı Yer": member.location,
+                "İlgi Alanları": member.interests,
+              }}
+              cardType="family"
+            />
+          </Col>
+        ))}
+      </Row>
+    </Container>
   );
 };
 

@@ -1,44 +1,46 @@
 [
   {
     "id": 1,
-    "name": "Ali Rıza Efendi (Babası)",
-    "desc": "Ali Rıza Efendi, “kırmızı hafız” lakaplı Kızıl Hafız Ahmet Efendi’nin oğludur. 1939 yılında Makedonya yakınlarındaki Kocacık köyünde dünyaya geldi.",
+    "name": "Ali Rıza Efendi",
+    "about": "Ali Rıza Efendi, kırmızı hafız lakaplı Kızıl Hafız Ahmet Efendi'nin oğludur. 1939 yılında Makedonya yakınlarındaki Kocacık köyünde dünyaya geldi.",
     "img": "https://www.makaleler.com/fotomakaleler/596623e3da5fc.jpg",
-    "about": "Ali Rıza Efendi, “kırmızı hafız” lakaplı Kızıl Hafız Ahmet Efendi’nin oğludur. 1939 yılında Makedonya yakınlarındaki Kocacık köyünde dünyaya geldi. İlkokulu Abdi Hafız Mahalle Mektebi’nde okudu. Selanik’te Evkaf idaresinde kâtiplik yaptı. Ardından Gümrük Muhafaza Teşkilatı’nda memurluk görevinde bulundu. Selanik’e göç eden Ali Rıza Efendi, 1871 yılında Zübeyde Hanım ile evlendi. Yenikapı Mahallesi’nde bir eve yerleştiler. “Gülzar-ı cennetim” diye hitap ettiği eşini çok severdi. Zübeyde Hanım bu evde Ahmet, Ömer ve Fatma isminde üç çocuk dünyaya getirdi. Fakat Fatma henüz bir yaşına gelmeden verem hastalığına yakalandı ve hayatını kaybetti. Bir süre sonra Ali Rıza Efendi, Osmanlı-Rusya savaşı nedeniyle Selanik’te yardımcı askerler birliğine katıldı. 35 yaşında okuryazar olduğu için geçici üsteğmen rütbesi verildi. Askerliği 2 yıl süren Ali Rıza Efendi, Ayastefanos anlaşmasından sonra askerliği bıraktı. Askerlikten sonra Osmanlı-Yunanistan sınırına gümrük muhafaza memuru olarak tayini atandı. Ege denizi kıyısında, Selanik yakınlarında bulunan Katerin Kazası’na bağlı Paşaköprüsü denilen yerde göreve başladı. Selanik’e 120 kilometre uzaklıktaydı ve karayolu yoktu. Zübeyde Hanım iki çocuğuyla beraber orada yaşamaktan hiç memnun değildi. İkinci çocuğu Ömer’i hastalıktan ve bakımsızlıktan dolayı burada kaybetti. Ali Rıza Efendi daha sonra kereste tüccarlarıyla kurduğu arkadaşlık sonucu yeni bir meslek edindi ve ticarete atılmaya karar verdi. Bu ticaret sonucu durumları düzeldi ve eski yaşantılarına tekrar döndüler. Fakat tek evlatları olan Ahmet’i de kaybedince büyük bir üzüntüye boğuldular. Ardından Mustafa, kız kardeşleri Makbule ve Naciye dünyaya geldi. Fakat Naciye de küçük yaşta vefat etti. Ali Rıza Efendi, 1888 yılında, Mustafa ilkokulda okuduğu sırada geçirdiği bir rahatsızlık sonucu hayatını kaybetti."
+    "birthDate": "1839",
+    "occupation": "Gümrük Memuru, Kereste Tüccarı",
+    "education": "Abdi Hafız Mahalle Mektebi",
+    "location": "Selanik",
+    "interests": "Ticaret, Askerlik"
   },
   {
     "id": 2,
-    "name": "Zübeyde Hanım (Annesi)",
-    "desc": "Zübeyde Hanım, Orta Anadolu’dan göç edip Arnavutluk sınırına yerleştirilen Yörüklerden olan, Sofuzade Feyzullah Efendi’nin kızıdır. 1857 yılında Lankaza’da doğdu.",
+    "name": "Zübeyde Hanım",
+    "about": "Zübeyde Hanım, Orta Anadolu'dan göç edip Arnavutluk sınırına yerleştirilen Yörüklerden olan, Sofuzade Feyzullah Efendi'nin kızıdır. 1857 yılında Lankaza'da doğdu.",
     "img": "https://www.makaleler.com/fotomakaleler/5966242778f92.jpg",
-    "about": "Zübeyde Hanım, Orta Anadolu’dan göç edip Arnavutluk sınırına yerleştirilen Yörüklerden olan, Sofuzade Feyzullah Efendi’nin kızıdır. 1857 yılında Lankaza’da doğdu. Annesine “Molla Hanım” denildiği gibi kendisine de “Zübeyde Molla” diye hitap ediliyordu. 14 yaşında Selanik’te gümrük muhafaza memuru olan Ali Rıza Efendi ile hayatını birleştirdi. Bu evlilikten altı çocuk sahibi oldu fakat dördünü küçük yaşta kaybetti. 1888 yılında eşi Ali Rıza Bey vefat edince çocuklarını da alarak bir süre abisinin Lankaza’daki çiftliğinde yaşadı. Dul bir kadın olarak çocuklarına bakmakta çok zorlanıyordu. Daha sonra 36 yaşında, kendisine talip olan Ragıp Bey ile ikinci evliliğini yaptı. Mustafa Kemal bu sırada Harp Akademisi’nde okuyordu. Zübeyde Hanım, Balkan savaşının sonuna kadar Selanik’te yaşadı. Eşi Ragıp Bey vefat ettikten sonra kızı Makbule’yle birlikte İstanbul Beşiktaş semtinde Akaretler’de bir apartman dairesine yerleşti. Zübeyde Hanım hastalanıp felç geçirince oğlu Mustafa onu Ankara’ya getirdi. 1919 yılında ayrıldığı oğlu Mustafa Kemal’i yıllar sonra ilk defa Cumhurbaşkanı olarak gördü. Çankaya Köşkü’nde bir süre tedavi gördükten sonra İzmir’in havasının romatizmalarına ve ağrılarına iyi geleceği düşünüldü. Zübeyde Hanım İzmir’de, Mustafa Kemal’in daha sonraki yıllarda evleneceği Latife Hanım’ın ailesinin köşkünde istirahat etti. Buradayken hastalığı şiddetini iyice artıran Zübeyde Hanım 14 Ocak 1923 günü, 66 yaşında vefat etti. Mustafa Kemal, annesinin mezarını ziyaret ettiği bir esnada yaptığı konuşmayla annesini ne kadar çok sevdiğini ifade etti. Konuşma şu şekildeydi; “…Valdemin ziyamdan şüphesiz pek müteessirim. Fakat bu teessürümü izale ve beni müteselli eden bir husus var ki, o da anamız vatanı mahv ve harabiye götüren idarenin artık bir daha avdet etmemek üzere mezar-ı ademe götürülmüş olduğunu görmektir. Valdem bu toprağın altında, fakat Hakimiyet-i Milliye ilelebet payidar olsun. Beni müteselli eden en büyük kuvvet budur. Evet, Hakimiyet-i Milliye ilelebet devam edecektir. Valdemin ruhuna ve bütün ecdat ruhuna müteahhit olduğum vicdan yeminini tekrar edeyim. Valdemin medfeni önünde ve Allah’ın huzurunda aht ve peyman ediyorum, bu kadar kan dökerek milletin istihsal ve tespit ettiği hakimiyetin muhafaza ve müdafaası için icab ederse valdemin yanına gitmekte asla tereddüt etmeyeceğim. Hakimiyet-i Milliye uğrunda canımı vermek, benim için vicdan ve namus borcu olsun.”"
+    "birthDate": "1857",
+    "occupation": "Ev Hanımı",
+    "education": "Ev Eğitimi",
+    "location": "Selanik, İstanbul, Ankara, İzmir",
+    "interests": "El İşleri, Ev İdaresi"
   },
   {
     "id": 3,
-    "name": "Makbule Atadan (Kızkardeşi)",
-    "desc": "1885 yılında Selanik’te doğdu. Balkan Savaşları’ndan sonra annesi Zübeyde Hanım ile birlikte, Mustafa Kemal’in onlar için İstanbul’da hazırladığı eve yerleşti.",
+    "name": "Makbule Atadan",
+    "about": "1885 yılında Selanik'te doğdu. Balkan Savaşları'ndan sonra annesi Zübeyde Hanım ile birlikte, Mustafa Kemal'in onlar için İstanbul'da hazırladığı eve yerleşti.",
     "img": "https://www.makaleler.com/fotomakaleler/5966246a2c889.jpg",
-    "about": "1885 yılında Selanik’te doğdu. Balkan Savaşları’ndan sonra annesi Zübeyde Hanım ile birlikte, Mustafa Kemal’in onlar için İstanbul’da hazırladığı eve yerleşti. Mustafa Kemal, Milli mücadeleyi sürdürmek için İstanbul’dan ayrıldığında annesiyle birlikte Akaretler’deki evde yaşamaya devam etti. Cumhuriyet’in ilanından sonra abisinin çağrısı üzerine Ankara’ya gitti. Bir süre Atatürk’ün yanında kaldı. Ardından kendisi için yaptırılan Çamlı Köşk’e yerleşti. 1930 yılında yine abisinin isteği üzerine Serbest Cumhuriyet Fırkası’na katıldı fakat partinin iki ay sonra kapatılmasıyla siyasi yaşantısı son buldu. Milletvekili Mecit Boysan ile 1935 yılında evlendi. Daha sonra eşinden boşanan Makbule Atadan, abisi ile olan anılarını anlattığı “Büyük Kardeşim Atatürk” ve “Ağabeyim Mustafa Kemal” isimlerinde iki kitap yazdı. 18 Ocak 1956’da vefat etti."
+    "birthDate": "1885",
+    "occupation": "Yazar, Siyasetçi",
+    "education": "Ev Eğitimi",
+    "location": "Selanik, İstanbul, Ankara",
+    "interests": "Yazarlık, Siyaset"
   },
   {
     "id": 4,
-    "name": "Sabiha Gökçen (Manevi kızı)",
-    "desc": "“Türkiye’nin ilk kadın pilotu” unvanına sahip olan Sabiha Gökçen, 22 Mart 1913’te Bursa’da altı çocuklu bir ailenin en küçük çocuğu olarak dünyaya geldi.",
+    "name": "Sabiha Gökçen",
+    "about": "Türkiye'nin ilk kadın pilotu unvanına sahip olan Sabiha Gökçen, 22 Mart 1913'te Bursa'da altı çocuklu bir ailenin en küçük çocuğu olarak dünyaya geldi.",
     "img": "https://www.makaleler.com/fotomakaleler/596624bc7a48a.jpg",
-    "about": "“Türkiye’nin ilk kadın pilotu” unvanına sahip olan Sabiha Gökçen, 22 Mart 1913’te Bursa’da altı çocuklu bir ailenin en küçük çocuğu olarak dünyaya geldi. Annesi Hayriye Hanım ve babası Mustafa İzzet Bey’dir. Edirne’de defterdarlık yapan babasının emekli olmasının ardından ailesiyle Bursa’ya yerleşti. Annesi Hayriye Hanım ve babası Mustafa İzzet Bey hayatını kaybettiğinde Sabiha Gökçen ilkokula gidiyordu. Anne ve babasının ölümünden sonra abisi Neşet Dikmen ile ablaları Nafia Dikmen ve Saime Berksun ile yaşamaya başladı. 1925 yılında Bursa’yı ziyareti esnasında Atatürk, zor şartlarda yaşayan Sabiha’yı ağabeyinden izin alarak evlat edindi. Ardından onu da alarak Ankara’ya gitti. Ankara’da Çankaya İlkokulu’nu bitirdikten sonra Arnavutköy Amerikan Koleji’nde, sonrasında ise Üsküdar Amerikan Kız Koleji’nde eğitimine devam etti. Bir süre sonra hastalanan Sabiha Gökçen, tedavi için Atatürk’ün emriyle Viyana’ya gönderildi. Tedavinin ardından Ankara’ya döndü ve eğitimine Çankaya Köşkü’nde özel öğretmenler eşliğinde devam etti. 1933 yılında Atatürk, hem tedavisine devam etmesi için hem de eğitim alması için onu Paris’e gönderdi. Eğitimi bitince yurda dönen Gökçen, yaşamının geri kalanını Atatürk’le beraber sürdürdü. 1934 yılında çıkartılan soyadı kanununun ardından Atatürk tarafından Sabiha’ya Gökçen soyadı verildi. 1935 yılında Atatürk’ün emriyle ilk sivil havacılık okulu açıldı. Türkkuşu adı verilen sivil havacılık okulunun açılışında yapılan planör gösterisi Sabiha Gökçen’in çok ilgisini çekti. Okula ilk kız öğrenci olarak kaydolan Gökçen, planörlük eğitimi almak için Kırım’daki planörcülük yüksek okuluna gönderildi. Bu okuldan mezun olduktan sonra öğretmenlik diplomasıyla yurda döndü. 1936 yılında Eskişehir Askeri Hava Okulu’na yine Atatürk tarafından gönderildi. Buradan mezun olduktan sonra da “dünyanın ilk kadın savaş pilotu” unvanını kazanarak mesleğine devam etti. 22 Mart 2001’de doğum gününde vefat etmiştir."
-  },
-  {
-    "id": 5,
-    "name": "Afet İnan (Manevi kızı)",
-    "desc": "29 Kasım 1908’de doğan Afet İnan, Atatürk’ün manevi kızıdır. Selanik’in Polyoroz kasabasında doğdu. Annesi Şehdane Hanım, babası orman memuru İsmail Hakkı Bey’dir.",
-    "img": "https://www.makaleler.com/fotomakaleler/596625524b2e4.jpg",
-    "about": "29 Kasım 1908’de doğan Afet İnan, Atatürk’ün manevi kızıdır. Selanik’in Polyoroz kasabasında doğdu. Annesi Şehdane Hanım, babası orman memuru İsmail Hakkı Bey’dir. Ailesi Balkan savaşlarından sonra Anadolu’ya göç eden ailelerdendi. İlköğrenimini Eskişehir, Ankara ve Biga’da bitirdi. Bursa Kız Öğretmen Okulu’nu 1925 yılında tamamladı. İlk görevini 17 yaşında İzmir’de Reddi İlhak İlkokulu’nda yaptı. 11 Ekim 1925’te Atatürk İzmir’e geldiği sırada Afet İnan’la karşılaştı. Afet İnan’ın öğrenimini sürdürmek istediğini ve yabancı dil öğrenmek istediğini öğrendi. Anne ve babasından izin aldıktan sonra Afet Hanım’ın atamasının Ankara’ya yapılmasını sağladı. Bakanlığın izniyle İsviçre’nin Lozan şehrine Fransızca öğrenmesi için gönderildi. Döndükten sonra İstanbul’da Fransız Kız Lisesi Notre Dame de Sion’da öğrenimini devam ettirdi. Tarih öğretmenliği sınavına girip öğretmenlik belgesi aldı. Ankara Musiki Öğretmen Okulu’na atandı. Uzunca bir süre kuruluş çalışmalarında da yer aldığı Türk Tarih Kurumu’na asbaşkanlık yaptı. Bu esnada akademik çalışmalarına devam etti. Bu çalışmalar neticesinde 1942’de doçentliğe, 1950’de profesörlüğe yükseldi. Atatürk ve Türk tarihi ile ilgili pek çok yayını bulunmaktadır. 8 Haziran 195 tarihinde vefat etmiştir."
-  },
-  {
-    "id": 6,
-    "name": "Ülkü Adatepe (Manevi kızı)",
-    "desc": "27 Kasım 1932 tarihinde Ankara’da doğdu. Atatürk’ün en küçük manevi kızı olan Ülkü Adatepe, bebekliğinden altı yaşına kadar Çankaya Köşk’ünde Atatürk’ün yanında yaşadı.",
-    "img": "https://www.makaleler.com/fotomakaleler/596625a213f63.jpg",
-    "about": "27 Kasım 1932 tarihinde Ankara’da doğdu. Atatürk’ün en küçük manevi kızı olan Ülkü Adatepe, bebekliğinden altı yaşına kadar Çankaya Köşk’ünde Atatürk’ün yanında yaşadı. Annesi Selanikli Vasfiye Hanım, Atatürk’ün annesi Zübeyde Hanım’ın evlatlık kızıydı. Adatepe’nin babası ise Fransızca öğretmeni Mehmet Tahsin Bey’dir. Atatürk, Ülkü Adatepe’nin hem manevi babası hem de isim babasıydı. Ülkü büyüdükçe Atatürk’ün ona olan sevgisi de büyüdü, Atatürk yurt gezilerinde yanında Ülkü’yü de götürdü. Henüz 6 yaşındayken manevi babası ölen Ülkü Adatepe, eğitimini İstanbul Amerikan Kız Koleji’nde tamamladı. İlk evliliğini 1948 yılında, henüz 16 yaşındayken Kastamonu Milletvekili Fethi Doğançay ile evlendi. İkinci evliliğini Musevi olan Yeşua Bensusen ile yaptı. Bu evliliğin ardından Milli Türk Talebe Birliği ve Mustafa Kemal Derneği’nden çok fazla tepki aldı. Yeşua Bensusen ile boşandıktan sonra Emin Öke Adatepe ile evlendi ve soyadı Adatepe olarak kaldı. 1 Ağustos 2012’de geçirdiği bir trafik kazası sonucu hayatını kaybetti."
+    "birthDate": "22 Mart 1913",
+    "occupation": "Pilot, Havacılık Öğretmeni",
+    "education": "Çankaya İlkokulu, Üsküdar Amerikan Kız Koleji",
+    "location": "Bursa, Ankara, İstanbul",
+    "interests": "Havacılık, Eğitim"
   }
 ]

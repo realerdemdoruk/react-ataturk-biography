@@ -1,73 +1,74 @@
 [
   {
     "id": 1,
-    "name": "Doğu Halklarının Antik Tarihi",
-    "img": "https://i0.wp.com/journo.com.tr/wp-content/uploads/2022/05/Maspero-Histoire-ancienne-des-peuples-de-lOrient-e1652860142108.jpg?w=418&ssl=1",
-    "originalName": "Histoire ancienne des peuples de l’Orient",
-    "author": "Gaston Camille Charles Maspéro",
-    "type": "Doğu Tarihi",
-    "language": "Fransızca",
-    "releaseYear": "1895"
+    "title": "Nutuk",
+    "description": "Atatürk'ün en çok bilinen ve okunan, Söylev adıyla da yayımlanan eseriyle listemize başlıyoruz. Büyük bir emekle kaleme aldığı bu eseri, tarihi değeri kadar içinde barındırdığı deneyim, öğüt ve geleceği öngörebilen anlatımıyla geçmişe, bugüne ve geleceği konu alan bir mirastır.",
+    "imageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11788244/wh:true/wi:500"
   },
   {
     "id": 2,
-    "name": "Doğuşundan Günümüze Osmanlı İmparatorluğu Tarihi",
-    "img": "https://i0.wp.com/journo.com.tr/wp-content/uploads/2022/05/Von-hammer-Histoire-de-lempire-ottoman-depuis-son-origine-jasqua-nos-jours.jpg?w=305&ssl=1",
-    "originalName": "Histoire de l’empire ottoman depuis son origine jasqu’à nos jours",
-    "author": "Joseph Freiherr von Hammer-Purgstall (Almanca’dan çeviri)",
-    "type": "Osmanlı Tarihi",
-    "language": "Fransızca",
-    "releaseYear": "1895"
+    "title": "Geometri",
+    "description": "Türk Dili Tetkik Cemiyeti'nin 12 Temmuz 1932'de kurulmasından sonra başlayan Dil Devrimi'yle Türkçeyi sade bir dil haline getirme ve yabancı kökenli kelimelerden arındırma çalışmaları hız kazanır. Arapça ve Farsçadan alınan bilim, fen, sanat ve teknik terimlerin Türkçeleştirilmesi için komisyonlar kurulmasının yanı sıra Osmanlıca terimlerin kullanıldığı geometri, eski deyişle hendese için bizzat Mustafa Kemal Atatürk de yapar. Atatürk, 1936 yılında toplanan III. Türk Dil Kurultayı'nın hemen ardından geometri öğretenlerle, bu konuda kitap yazacaklara kılavuz olması amacıyla Dolmabahçe Sarayı'nda Geometri kitabını kaleme alır. ",
+    "imageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11473194/wh:true/wi:800"
   },
   {
     "id": 3,
-    "name": "Tarih Öncesi İnsanlık",
-    "img": "https://i0.wp.com/journo.com.tr/wp-content/uploads/2022/05/Jacques-Jean-Maris-de-Morgan-Lhumanite-prehistorique-e1652860795578.png?w=564&ssl=1",
-    "originalName": "L’humanité préhistorique",
-    "author": "Jacques Jean Maris de Morgan",
-    "type": "Antropoloji",
-    "language": "Fransızca",
-    "releaseYear": "1924"
+    "title": "Güneş-Dil Teorisi",
+    "description": "Atatürk’ün pek de bilinmeyen kitaplarından biriyle devam edelim. 2 Kasım - 7 Aralık 1935 tarihleri arasında Ulus gazetesinde isimsiz olarak çıkan Güneş-Dil Teorisi’ne ilişkin makaleler hakkında Afet İnan (manevi kızı), Mustafa Kemal’e bir mektup yazar ve Ulus gazetesindeki dil yazılarının Ata’nın kendisine ait olan yazılarına benzediğini vurgular. Makalenin yazarını merak eden Afet İnan, Mustafa Kemal’den gelen mektuptan yazıların bizzat ona ait olduğunu anlar! Bu eserle Atatürk’ün Türk diline olan sevgisini, verdiği önemi ve emeği bir defa daha anlıyoruz. ",
+    "imageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11612331/wh:true/wi:500"
   },
   {
     "id": 4,
-    "name": "Güney Kutup Bölgesi",
-    "img": "https://i0.wp.com/journo.com.tr/wp-content/uploads/2022/05/Maurice-Zimmermann-Paul-Privat-Deschanel-Regions-polaires-australes.jpg?w=574&ssl=1",
-    "originalName": "Régions polaires australes",
-    "author": "Maurice Zimmermann ve Paul Privat-Deschane",
-    "type": "Coğrafya",
-    "language": "Fransızca",
-    "releaseYear": "1930"
+    "title": " Zabit ve Kumandan ile Hasbihal",
+    "description": "Mustafa Kemal Atatürk'ün yazarlığı, askerliği ve devlet adamlığının gölgesinde kaldığını anlayabileceğimiz bu okuma seçkisine keyif veren, ilgi çeken bir eseriyle devam eldim öyleyse. Nuri Conker (1881-1937), Atatürk'ün mahalle, okul, meslek ve silah arkadaşıydı. Trablusgarp'ta, Çanakkale'de ve Kurtuluş Savaşı'nda beraberdiler. Yazdığı tek kitap olan Zabit ve Kumandan, Mustafa Kemal'in Hasbihal'i kaleme almasına vesile oldu. ",
+    "imageUrl": "https://cdn.bkmkitap.com/Data/EditorFiles/Blog/blog-urunler/zabit-ve-kumandan-ile-hasbihal-mustafa-kemal-ataturk.jpg"
   },
   {
     "id": 5,
-    "name": "Antik Tarih",
-    "img": "https://i0.wp.com/journo.com.tr/wp-content/uploads/2022/05/Histoire-de-lantiquite-Eduard-Mayer.jpg?w=444&ssl=1",
-    "originalName": "Histoire de l’antiquité",
-    "author": "Eduard Mayer",
-    "type": "Antropoloji",
-    "language": "Fransızca",
-    "releaseYear": "1912"
+    "title": "Cumalı Ordugahı-On Günlük Manevranın Hatırası 29 Ağustos-8 Eylül 1909",
+    "description": "Cumalı Ordugâhı, Atatürk’ün Nutuk’ta da söz ettiği bir eser. Suphi Paşa’nın İştip havalisinde Cumalı’da yaptırdığı süvari manevralarından sonra kaleme alındığı biliniyor. Mustafa Kemal, Cumali Ordugâhı’nı hasretini çektiği askerî hayatın yeniden başlaması gibi düşünerek orada geçirdiği on gün süren anıları kaleme almıştır. 29 Ağustos-8 Eylül 1909 tarihleri arasında gün gün tutulmuş notlardan oluşan ve krokilerle geliştirilen bu eserde Atatürk’ün askerlik anlayışına dair önemli ipuçları vardır. ",
+    "imageUrl": "https://cdn.bkmkitap.com/Data/EditorFiles/Blog/blog-urunler/cumali-ordugahi-mustafa-kemal-ataturk.jpg"
   },
   {
     "id": 6,
-    "name": "Tarih-i Osmanî",
-    "img": "https://img.kitapyurdu.com/v1/getImage/fn:270866/wh:true/wi:800",
-    "originalName": "Tarih-i Osmanî",
-    "author": "Namık Kemal",
-    "type": "Tarih",
-    "language": "Türkçe",
-    "releaseYear": "1889"
+    "title": "Anafartalar Muharebatına Ait Tarihçe",
+    "description": "10 Ağustos 1915 Conkbayırı Taarruzu tarihe geçen bir olaydır. Mustafa Kemal Atatürk’ün savaş meydanında kendi el yazısıyla kaleme aldığı bu notlar, bir okul defterine yazılmıştır. Eserin en değerli yönüyse olayları sıcağı sıcağına hatta dakikası dakikasına kaleme alınmasıdır elbette. Mustafa Kemal tarafından Türk Tarih Kurumu genel sekreteri Dr. Reşit Galip’e okunmak üzere verilen bu notlar, kitap haline getirilmiştir.",
+    "imageUrl": "https://cdn.bkmkitap.com/Data/EditorFiles/Blog/blog-urunler/anafartalar-muharebatina-ait-tarihce-mustafa-kemal-atat%C3%BCrk.jpg"
   },
-
   {
     "id": 7,
-    "name": "Sapho: Moeurs parisiennes (Littérature et civilisation)",
-    "img": "https://kbimages1-a.akamaihd.net/f921352c-e36e-406f-abcf-e650347da631/1200/1200/False/sapho-roman-de-murs-parisiennes.jpg",
-    "originalName": "Sapho: Moeurs parisiennes (Littérature et civilisation)",
-    "author": "Alphonse Daudet",
-    "type": "Kurgu",
-    "language": "Fransızca",
-    "releaseYear": "1880"
+    "title": "Sivas Kongresi Günleri",
+    "description": "Sivas Kongresi, memleketin bütünlüğü ve bağımsızlığının korunması için izlenecek politikanın saptanması ve bu politikaların ülkenin bütününde uygulanmasına karar verilmesi bakımından son derece önemli bir buluşmaydı. Tarihimizdeki en önemli olaylardan biri olan Sivas Kongresi, Nutuk'ta yer almıştır. Bu çalışma, Selma Günaydın ve Yusuf Turan Günaydın'ın Nutuk'un Sivas Kongresi ile ilgili bölümünden alıntılayarak hazırladığı bir kitap. ",
+    "imageUrl": "https://cdn.bkmkitap.com/Data/EditorFiles/Blog/blog-urunler/sivas-kongresi-mustafa-kemal-ataurk.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Arı Burnu Muharebeleri Raporu",
+    "description": "Mustafa Kemal Atatürk'ün kaleme aldığı bu rapor, Osmanlı Harp Tarihi şubesinin kendisinden hatıralarını yazmasını istemesi üzerine ortaya çıkmış önemli bir tarihî belgedir. Raporda, 19. Tümen Kumandanlığına görevlendirilmesiyle Arıburnu’na gerçekleştirilen ilk çıkarma günü olan 25 Nisan 1915'ten Anafartalar Grup Kumandanlığına atandığı 8-9 Ağustos 1915 tarihine kadar yaşanan kritik gelişmelere yer verilmiştir. ",
+    "imageUrl": "https://cdn.bkmkitap.com/Data/EditorFiles/Blog/blog-urunler/ari-burnu-muharebeleri-raporu-mustafa-kemal-atat%C3%BCrk.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Hatıra Notları 1916",
+    "description": "Mustafa Kemal Atatürk’ün Doğu Cephesinde (Diyarbakır, Siirt) görevli iken bizzat kendi el yazısıyla kaydettiği Hatıra Notları hem tarih bilimi açısından hem de Türk milleti açısından son derece değerlidir kuşkusuz ki. Meraklısının okunmaya değer bir eser olarak kütüphanesinde yer vereceği bir eser. ",
+    "imageUrl": "https://cdn.bkmkitap.com/Data/EditorFiles/Blog/blog-urunler/hatira-notlari-mustafa-kemal-ataturk.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Belgelerle Bursa Nutku",
+    "description": "Hitap gücü bakımından son derece güçlü bir yetenek ve bilgeliğe sahip olan Mustafa Kemal Atatürk’ün Bursa ziyareti sırasında özellikle Türk gençlerini hedef alarak seslendiği Bursa nutku, kendimize, bugünümüze ve geleceğimize dair öğütler bulabileceğimiz bir metin. ",
+    "imageUrl": "https://cdn.bkmkitap.com/Data/EditorFiles/Blog/blog-urunler/bursa-nutku-mustafa-kemal-ataturk.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Bağımsızlık Benim Karakterimdir",
+    "description": " Mustafa Kemal Atatürk’ün sözlerinden özenle derlenmiş bir seçki okumak isteyenler için son derece doğru bir kaynak. Onun en çok bilinen cümlelerinden birinin, “Bağımsızlık Benim Karakterimdir” cümlesini başlığa taşıyan eser, son derece etkileyici. ",
+    "imageUrl": "https://cdn.bkmkitap.com/Data/EditorFiles/Blog/blog-urunler/bagimsizlik-benim-karakterimdir-mustafa-kemal-ataturk.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Eskişehir-İzmit Konuşmaları 1923",
+    "description": " Gazi Mustafa Kemal Paşa, 14 Ocak 1923’te bir ay sürecek Batı Anadolu gezisine çıktı. İlk durağı, Eskişehir oldu. Son durağı ise 17 Şubat 1923’teki İzmir İktisat Kongresi. Bu günlerinde yaptığı konuşmalarının metinlerini ve ek notlarını kaleme alan Atatürk, bize de okunması gereken tarihi bir miras bırakmış oldu böylece. ",
+    "imageUrl": "https://cdn.bkmkitap.com/Data/EditorFiles/Blog/blog-urunler/eskisehir-izmit-konusmalari-mustafa-kemal-ataturk.jpg"
   }
 ]
